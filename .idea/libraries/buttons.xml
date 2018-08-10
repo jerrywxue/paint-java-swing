@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="buttons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/buttons/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/buttons/._vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
